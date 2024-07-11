@@ -1,0 +1,10 @@
+INSERT INTO carrera (id_carrera, nombre, descripcion) VALUES (1, 'Ingeniería de Sistemas', 'Carrera enfocada en el diseño y desarrollo de sistemas informáticos.');
+INSERT INTO carrera (id_carrera, nombre, descripcion) VALUES (2, 'Medicina', 'Carrera enfocada en el estudio y práctica de la medicina.');
+INSERT INTO carrera (id_carrera, nombre, descripcion) VALUES (3, 'Derecho', 'Carrera enfocada en el estudio de las leyes y el sistema judicial.');
+INSERT INTO carrera (id_carrera, nombre, descripcion) VALUES (4, 'Arquitectura', 'Carrera enfocada en el diseño y construcción de edificaciones.');
+INSERT INTO carrera (id_carrera, nombre, descripcion) VALUES (5, 'Economía', 'Carrera enfocada en el estudio de la economía y las finanzas.');
+INSERT INTO carrera (id_carrera, nombre, descripcion) VALUES (6, 'Administración de Empresas', 'Carrera enfocada en la gestión y administración de negocios.');
+INSERT INTO carrera (id_carrera, nombre, descripcion) VALUES (7, 'Ingeniería Civil', 'Carrera enfocada en el diseño y construcción de infraestructuras.');
+INSERT INTO carrera (id_carrera, nombre, descripcion) VALUES (8, 'Psicología', 'Carrera enfocada en el estudio de la mente y el comportamiento humano.');
+INSERT INTO carrera (id_carrera, nombre, descripcion) VALUES (9, 'Ingeniería Industrial', 'Carrera enfocada en la optimización de procesos industriales y de manufactura.');
+INSERT INTO carrera (id_carrera, nombre, descripcion) VALUES (10, 'Educación', 'Carrera enfocada en la formación y enseñanza de estudiantes.');
